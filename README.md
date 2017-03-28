@@ -1,2 +1,4 @@
 # hello-world
-Repository created to learn githum
+Repository created to learn github
+
+A bit about yourself!
